@@ -16,6 +16,7 @@ translator.to_lang = 'zh-cn'
 
 import spacy
 # nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load('zh_core_web_lg')
 nlp_zh = spacy.load('zh_core_web_lg')
 
 
